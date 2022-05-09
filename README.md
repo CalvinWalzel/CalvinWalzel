@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 I’m currently working at [Booqable](http://booqable.com), creating awesome rental software.
+🔭 I’m currently working at [Shopify](https://www.shopify.com/).
 
 👯 I’m looking to collaborate on new innovative ideas related to electric cars, gaming, education & altruism.
 
