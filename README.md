@@ -1,10 +1,6 @@
 # 💫About Me :
 🔭 I’m currently working at [Shopify](https://www.shopify.com/).
 
-👯 I’m looking to collaborate on new innovative ideas related to electric cars, gaming, education & altruism.
-
-🌱 I’m currently learning Hotwire & Stimulus.
-
 💬 Ask me about anything related to web dev, ruby & rails 🙋‍♂️
 
 ⚡ Fun fact: I'm 🇩🇪 German, living in 🇳🇱 The Netherlands, but my main language is 🇺🇸 English.
@@ -18,9 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=calvinwalzel&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=calvinwalzel&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinwalzel&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 ![](https://komarev.com/ghpvc/?username=calvinwalzel&label=Visitors+Count&color=brightgreen)
