@@ -1,19 +1,84 @@
-# 💫About Me :
-🔭 I’m currently working at [Shopify](https://www.shopify.com/).
+## 💫 About Me
+🛒 Currently working at [Shopify](https://www.shopify.com/).
 
-💬 Ask me about anything related to web dev, ruby & rails 🙋‍♂️
+💬 Talk to me about anything related to web dev, ruby, rails & javascript.
 
-⚡ Fun fact: I'm 🇩🇪 German, living in 🇳🇱 The Netherlands, but my main language is 🇺🇸 English.
+🌟 Fun fact: I'm 🇩🇪 German, living in 🇳🇱 The Netherlands, but my main language is 🇺🇸 English.
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/calvinwalzel) 
+<br>
 
-# 💻Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=calvinwalzel&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=calvinwalzel&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinwalzel&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/calvinwalzel)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discordapp.com/users/74808953954902016)
+
+<br>
+
+## 💻 Tech Stack
+
+### Preferred
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%237364ff.svg?logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+![Inertia](https://img.shields.io/badge/inertiajs-%236b46c1.svg)
+
+<details>
+  <summary>All</summary>
+
+  ### Languages
+  ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?logo=ruby&logoColor=white) <!-- -->
+  ![Typescript](https://img.shields.io/badge/typescript-%23323330.svg?logo=typescript)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white) <!-- -->
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white) <!-- -->
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white) <!-- -->
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)
+
+  ### Frameworks
+  ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white) <!-- --> ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D)
+  ![Svelte](https://img.shields.io/badge/svelte-%23E44D26.svg?logo=svelte&logoColor=white) <!-- -->
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white)
+
+  ### Databases & Stores
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white) <!-- -->
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
+  ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?logo=elasticsearch)
+
+  ### Tools
+  ![Vite](https://img.shields.io/badge/vite-%237364ff.svg?logo=vite&logoColor=white)
+  ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black) <!-- -->
+  ![ESLint](https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white)
+  ![Rubocop](https://img.shields.io/badge/Rubocop-white?logo=rubocop&logoColor=black) <!-- -->
+  ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?logo=yarn&logoColor=white)
+  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white) <!-- -->
+  ![Replit](https://img.shields.io/badge/replit-%23101725.svg?logo=replit)
+
+  ### Providers
+  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?logo=heroku&logoColor=white)
+  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?logo=azure-devops&logoColor=white)
+  ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white) <!-- -->
+  ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
+
+  ### Other
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white)
+</details>
+
+<br>
+
+## 📊 GitHub Stats
+<div align="center">
+  <div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=calvinwalzel&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_rank=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calvinwalzel&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&layout=compact" />
+  </div>
+</div>
+
 
 ---
+
 ![](https://komarev.com/ghpvc/?username=calvinwalzel&label=Visitors+Count&color=brightgreen)
